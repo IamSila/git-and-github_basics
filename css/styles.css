@@ -3,7 +3,7 @@ body {
 }
 
 .button {
-    background-color: lawngreen;
+    background-color: red;
     border: none;
     border-radius: 10px 10px 10px 10px;
     justify-content: center;
