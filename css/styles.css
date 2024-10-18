@@ -1,0 +1,13 @@
+body {
+    background-color: black;
+}
+
+.button {
+    background-color: lawngreen;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+
+}
